@@ -69,7 +69,7 @@ cards.csv, cells.csv, monsters.csv   # game data
 ## 📸 Screenshots
 <p align="center">
   <img width="49%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c862fe58-c460-499c-b1c4-6557daf1b429" />
-  <img width="1535" height="790" alt="Screenshot 2026-11-27 140227" src="https://github.com/user-attachments/assets/54c4678c-6332-4008-b068-58f3ae2aec1f" />
+  <img width="49%" alt="Screenshot 2026-11-27 140227" src="https://github.com/user-attachments/assets/54c4678c-6332-4008-b068-58f3ae2aec1f" />
 </p>
 
 ## 🚀 How to Run

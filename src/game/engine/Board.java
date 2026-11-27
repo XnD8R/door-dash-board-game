@@ -151,15 +151,3 @@ public class Board {
     public static ArrayList<Card> getCards()                   { return cards; }
     public static void setCards(ArrayList<Card> c)             { cards = c; }
 }
-/*
- * AI helped fix: MonsterCell name was hardcoded instead of using monster's name
- * AI helped fix: stationedMonsters was null before Board created
- * AI helped fix: moveMonster() was decrementing opponent confusion incorrectly
- * AI helped fix: setCardsByRarity() was not updating originalCards correctly
- */
-//    Milestone 3
-/*
- * AI helped add lastDrawnCard field to track the last drawn card
- * AI helped add getLastDrawnCard() getter for use in GameView
- * I verified this correctly returned the card drawn in CardCell.onLand()
- */

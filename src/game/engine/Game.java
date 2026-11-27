@@ -83,7 +83,3 @@ public class Game {
     public Monster            getCurrent()    { return current; }
     public void               setCurrent(Monster m) { current = m; }
 }
-/*
- * AI helped fix: allMonsters size conflict between M1 and M2 tests
- * Fix: keep allMonsters as full list, use separate stationed list
- */

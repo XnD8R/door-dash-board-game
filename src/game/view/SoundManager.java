@@ -65,21 +65,3 @@ public class SoundManager {
         }
     }
 }
-/*
- * ============================================================
- * AI USAGE DECLARATION - Milestone 3
- * ============================================================
- * AI was used to generate the entire SoundManager class.
- *
- * AI Generated:
- * - Programmatic tone generation using javax.sound.sampled
- * - Frequency values for win, lose, roll, card, powerup sounds
- * - Fade-out effect on tones to avoid audio clicking
- * - Threading to avoid blocking the JavaFX thread
- *
- * I Verified and Changed:
- * - Verified sounds played correctly without crashing the game
- * - Verified threading did not cause JavaFX thread conflicts
- * - Tested all sound triggers worked at correct game moments
- * ============================================================
- */

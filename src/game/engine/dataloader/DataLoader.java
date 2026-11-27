@@ -55,7 +55,7 @@ public class DataLoader {
         reader.close();
         return cards;
     }
-//i used AI to fix readCells method 
+
     public static ArrayList<Cell> readCells() throws IOException {
         ArrayList<Cell> cells = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(CELLS_FILE_NAME))) {

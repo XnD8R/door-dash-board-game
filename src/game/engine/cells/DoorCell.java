@@ -66,10 +66,3 @@ public class DoorCell extends Cell implements CanisterModifier {
     
     public void    setActivated(boolean activated) { this.activated = activated; }
 }
-
-/*
- * AI helped fix: modifyCanisterEnergy() role check was in wrong place
- * Fix: moved role check inside modifyCanisterEnergy() itself
- * AI helped fix: shielded monster was still affecting stationed team
- * Fix: check shieldWillBlock before consuming shield
- */

@@ -2,7 +2,7 @@
 
 A 2-player monster race board game built in **Java** with a **JavaFX** GUI, designed around object-oriented principles.
 
-<img width="1535" height="790" alt="Gameplay" src="https://github.com/user-attachments/assets/54c4678c-6332-4008-b068-58f3ae2aec1f" />
+<img width="1533" height="786" alt="Screenshot 2026-11-27 140111" src="https://github.com/user-attachments/assets/9a449a2d-5ab3-484b-aef3-7e684a51699c" />
 
 ## 🎯 How the Game Works
 Two monsters, a **SCARER** and a **LAUGHER**, race across a 100-cell board.
@@ -69,7 +69,7 @@ cards.csv, cells.csv, monsters.csv   # game data
 ## 📸 Screenshots
 <p align="center">
   <img width="49%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/c862fe58-c460-499c-b1c4-6557daf1b429" />
-  <img width="49%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/9a449a2d-5ab3-484b-aef3-7e684a51699c" />
+  <img width="1535" height="790" alt="Screenshot 2026-11-27 140227" src="https://github.com/user-attachments/assets/54c4678c-6332-4008-b068-58f3ae2aec1f" />
 </p>
 
 ## 🚀 How to Run

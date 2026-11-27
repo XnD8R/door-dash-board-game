@@ -41,8 +41,3 @@ public class MultiTasker extends Monster {
     public int  getNormalSpeedTurns()                      { return normalSpeedTurns; }
     public void setNormalSpeedTurns(int normalSpeedTurns)  { this.normalSpeedTurns = normalSpeedTurns; }
 }
-
-/*
- * AI helped fix: constructor was adding +200 to the initial energy
- * Fix: added boolean constructed flag so +200 passive only applies after construction
- */

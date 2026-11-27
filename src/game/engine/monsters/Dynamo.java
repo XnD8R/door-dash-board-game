@@ -26,8 +26,3 @@ public class Dynamo extends Monster {
         opponentMonster.setFrozen(true);
     }
 }
-
-/*
- * AI helped fix: constructor was doubling the initial energy
- * Fix: added boolean constructed flag so 2x passive only applies after construction
- */

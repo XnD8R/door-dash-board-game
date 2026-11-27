@@ -111,11 +111,3 @@ public class Main extends Application {
     }
   
 }
-
-/*
- * AI USAGE:
- * AI helped generate the initial JavaFX start screen structure
- * AI helped with layout using VBox, buttons, and scene setup
- * AI helped with hover effects on buttons and glow effects
- * AI helped connect the start screen to the game engine via Game constructor
- */

@@ -28,8 +28,3 @@ public class EnergyStealCard extends Card implements CanisterModifier {
 
     public int getEnergy() { return energy; }
 }
-
-/*
- * AI helped fix: player was gaining 2x stolen amount when opponent was Dynamo
- * Fix: player gains intended steal amount, not actual energy lost
- */

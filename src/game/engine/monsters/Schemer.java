@@ -38,8 +38,3 @@ public class Schemer extends Monster {
         setEnergy(getEnergy() + totalStolen);
     }
 }
-
-/*
- * AI helped fix: constructor was adding +10 to the initial energy
- * Fix: added boolean constructed flag so +10 passive only applies after construction
- */

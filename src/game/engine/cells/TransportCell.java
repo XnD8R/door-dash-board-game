@@ -29,10 +29,3 @@ public abstract class TransportCell extends Cell {
 
     public int getEffect() { return effect; }
 }
-
-/*
- * AI helped fix: transport() was calling monster.move() which triggered
- * Dasher's 2x passive — position 82 instead of expected 65
- * Fix: changed to use setPosition() directly to bypass move() override
- * Also removed final from effect field
- */

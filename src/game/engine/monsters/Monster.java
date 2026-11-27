@@ -73,10 +73,7 @@ public abstract class Monster implements Comparable<Monster> {
         return confusionTurns > 0;
     }
 
-    
-     // AI helped fix: move() was clamping to 99 instead of wrapping with % 100
-    
-    
+
     public void move(int distance) {
         int newPos = position + distance;
         if (newPos < 0) {
